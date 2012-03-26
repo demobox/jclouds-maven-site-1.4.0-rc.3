@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2012-03-15T15:07:26.201">
+<file name="/scratch/hudson/workspace/jclouds-1.4.0-rc.3-maven-site/apis/cloudservers/src/main/java/org/jclouds/cloudservers/CloudServersClient.java">
+<violation beginline="41" endline="41" begincolumn="1" endcolumn="50" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.cloudservers" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.rest.ResourceNotFoundException'
+</violation>
+</file>
+<file name="/scratch/hudson/workspace/jclouds-1.4.0-rc.3-maven-site/apis/cloudservers/src/main/java/org/jclouds/cloudservers/compute/config/CloudServersComputeServiceContextModule.java">
+<violation beginline="45" endline="45" begincolumn="1" endcolumn="71" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.cloudservers.compute.config" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.jclouds.location.suppliers.implicit.OnlyLocationOrFirstZone'
+</violation>
+<violation beginline="49" endline="49" begincolumn="1" endcolumn="39" rule="UnusedImports" ruleset="Import Statement Rules" package="org.jclouds.cloudservers.compute.config" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.google.common.base.Supplier'
+</violation>
+</file>
+</pmd>
